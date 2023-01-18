@@ -1,0 +1,26 @@
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Services.deps.json
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Services.dll
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Services.pdb
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.csproj.AssemblyReference.cache
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.AssemblyInfoInputs.cache
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.AssemblyInfo.cs
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.csproj.CoreCompileInputs.cache
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.csproj.CopyComplete
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.dll
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.pdb
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Services.deps.json
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Services.dll
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Services.pdb
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Data.dll
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.csproj.AssemblyReference.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.AssemblyInfoInputs.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.AssemblyInfo.cs
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.csproj.CoreCompileInputs.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.csproj.CopyComplete
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.dll
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Services\obj\Debug\netcoreapp3.1\Blog.Services.pdb

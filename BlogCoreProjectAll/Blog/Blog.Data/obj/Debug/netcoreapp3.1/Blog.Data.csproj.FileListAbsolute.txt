@@ -1,0 +1,26 @@
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.deps.json
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.runtimeconfig.json
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.runtimeconfig.dev.json
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfo.cs
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.genruntimeconfig.cache
+C:\Users\rabia.ozturk\source\repos\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.AssemblyReference.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.deps.json
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.runtimeconfig.json
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.runtimeconfig.dev.json
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.dll
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.AssemblyReference.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfoInputs.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfo.cs
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CoreCompileInputs.cache
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.dll
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.pdb
+D:\Bilge adam teams dosyalari\OneDrive_6_02.12.2021\MVC (.Net Core)\BlogCoreProject\BlogCoreProjectAll\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.genruntimeconfig.cache
